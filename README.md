@@ -16,6 +16,7 @@ DATABASE : MySQL
       In Basic Banking System I have created a simple dynamic website which starts with creating a dummy data in database for upto 10 customers
       
   -> Each customer will have basic fields like name, email, current account balance.
+  
   -> There is present a transfer table which will record all transactions details that is done by the customers
   
   # Website Link Is Given Below:-
